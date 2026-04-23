@@ -1,10 +1,9 @@
 ---
-title: "Class Project Template"
+title: Disruptive Expertise
 layout: base
-date: 2025-10-21
-header-image: "/assets/images/sw-table.jpg"
-header-title: Southwestern Food
-header-subtitle: a class project template
+header-image: "/assets/images/book-to-network.jpg"
+header-title: Disruptive Expertise
+header-subtitle: when technology questions authority
 header-position: 35% center
 ---
 
